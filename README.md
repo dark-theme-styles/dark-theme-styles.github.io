@@ -1,2 +1,3 @@
-# dark-theme-styles.github.io
-Website for Dark Theme Styles
+# Dark Theme Styles website
+
+Go to [website (dark-theme-styles.github.io)](https://dark-theme-styles.github.io)
