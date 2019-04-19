@@ -67,13 +67,24 @@
 <div align="center">
 <table style="width:100%">
   <tr>
-    <td><img src="https://avatars1.githubusercontent.com/u/34386047" width="200" alt="B4rtware profile picture" target="_blank"></td>
-    <td><img src="https://avatars1.githubusercontent.com/u/38668040" width="200" alt="Re-Krass profile picture" target="_blank"> </td>
+    <td>
+      <a target="_blank" href="https://github.com/B4rtware">
+        <img src="https://avatars1.githubusercontent.com/u/34386047" width="200" alt="B4rtware profile picture" target="_blank">
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://github.com/Re-Krass">
+        <img src="https://avatars1.githubusercontent.com/u/38668040" width="200" alt="Re-Krass profile picture" target="_blank"> 
+      </a>
+    </td>
   </tr>
     <tr>
-    <th><a target="_blank" href="https://github.com/B4rtware">B4rtware</a></th>
-    <th><a target="_blank" href="https://github.com/Re-Krass">Re-Krass</a></th>
-<!--     <th>Re-Krass <a href="https://github.com/Re-Krass"><img src="https://material.io/tools/icons/static/icons/baseline-link-24px.svg" width="25" alt="link" target="_blank"></a></th> -->
+    <th>
+      <a target="_blank" href="https://github.com/B4rtware">B4rtware</a>
+    </th>
+    <th>
+      <a target="_blank" href="https://github.com/Re-Krass">Re-Krass</a>
+    </th>
   </tr>
 </table>
 </div>
