@@ -14,9 +14,9 @@
     <img alt="Snyk Vulnerabilities for GitHub Repo" src="https://img.shields.io/snyk/vulnerabilities/github/dark-theme-styles/Dark-Theme-TUB.svg?style=for-the-badge">
   </a> -->
   <!-- Code Quality Codacy -->
-  <a target="_blank" href="https://www.codacy.com/app/Re-Krass/dark-theme-styles.github.io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dark-theme-styles/dark-theme-styles.github.io&amp;utm_campaign=Badge_Grade">
+  <a href="https://www.codacy.com/app/Dark-Theme-Styles/dark-theme-styles.github.io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dark-theme-styles/dark-theme-styles.github.io&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/b7445657a392412a8fd08efefd688cb7.svg?style=for-the-badge">
-  </a>
+  </a>  
   <!-- Cody Style Prettier -->
 <a target="_blank" href="#badge">
     <img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=for-the-badge">
