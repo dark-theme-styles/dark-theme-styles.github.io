@@ -2,11 +2,11 @@
 <p align="center">
   <br>
   <!-- Website up status -->
-  <a href="https://dark-theme-styles.github.io/">
+  <a href="https://stats.uptimerobot.com/vjrwEu1r5">
     <img alt="Website" src="https://img.shields.io/website/https/dark-theme-styles.github.io.svg?down_message=offline&style=for-the-badge">
   </a>
   <!-- Website Uptime -->
-  <a href="https://dark-theme-styles.github.io/Dark-Theme-TUB/">
+  <a href="https://stats.uptimerobot.com/vjrwEu1r5">
     <img alt="Uptime Robot ratio (7 days)" src="https://img.shields.io/uptimerobot/ratio/7/m782473917-d08b5a3dd45cf16351586b21.svg?style=for-the-badge">
   </a>
 <!-- Vulnerabilities -->
@@ -18,9 +18,9 @@
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/b7445657a392412a8fd08efefd688cb7.svg?style=for-the-badge">
   </a>
   <!-- Cody Style Prettier -->
-<!--   <a href="#badge">
+<a href="#badge">
     <img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=for-the-badge">
-  </a> -->
+</a>
   <br>
 
   <!-- Version NPM -->
