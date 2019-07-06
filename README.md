@@ -15,13 +15,14 @@
   </a> -->
   <!-- Code Quality Codacy -->
   <a href="https://www.codacy.com/app/Dark-Theme-Styles/dark-theme-styles.github.io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dark-theme-styles/dark-theme-styles.github.io&amp;utm_campaign=Badge_Grade">
-    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/b7445657a392412a8fd08efefd688cb7.svg?style=for-the-badge">
+    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/3cb87f6bc5e94be1b669aadcd1da86e2.svg?style=for-the-badge">
   </a>  
   <!-- Cody Style Prettier -->
 <a target="_blank" href="#badge">
     <img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=for-the-badge">
 </a>
   <br>
+
 
   <!-- Version NPM -->
   <!--  <a target="_blank" href="https://github.com/dark-theme-styles/Dark-Theme-TUB">
